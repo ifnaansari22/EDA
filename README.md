@@ -24,6 +24,7 @@ Approach:
 
 Data Preprocessing: Handle missing values, encode categorical variables, and perform feature engineering if necessary.
 Exploratory Data Analysis (EDA):
+
 Univariate Analysis: Explore distributions of individual variables.
 Bivariate Analysis: Understand relationships between variables and loan defaults.
 Multivariate Analysis: Identify complex interactions and patterns.
@@ -35,14 +36,19 @@ Present visualizations in Python to support analysis findings.
 Presentation:
 Create a presentation summarizing the problem statement, analysis approach, results of univariate, bivariate analysis, etc., in business terms.
 Include relevant visualizations and highlight important insights.
+
 Expected Results:
 
 Well-commented Python file containing code for analysis and insights.
 Presentation in PDF format with problem statement, analysis approach, results, and visualizations.
 Jupyter Notebook documenting thought process, code, and plots.
+
 Folder Structure:
 
 Data: Contains the loan dataset and data dictionary.
+
 Notebooks: Contains Jupyter notebook with code and analysis (EDA case study.ipynb).
+
 Presentation: Contains the PDF presentation file.
+
 README.md: Provides an overview of the project, instructions, and important information.
